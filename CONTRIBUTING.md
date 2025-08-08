@@ -37,7 +37,3 @@ Thank you for your interest in contributing to CourseraProject! We welcome your 
 ## Code of Conduct
 
 Please note that this project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
-
----
-
-Feel free to ask if you want this file added directly to your repository!
